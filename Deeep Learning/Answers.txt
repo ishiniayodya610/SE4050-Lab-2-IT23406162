@@ -1,0 +1,5 @@
+Question 1:
+When the number of hidden nodes increases, the neural network can learn more complex patterns, so the accuracy usually improves.
+
+Question 2:
+The accuracy increases as more hidden nodes are added because the model becomes more powerful. After a certain point, the improvement becomes small and too many hidden nodes may lead to overfitting.
